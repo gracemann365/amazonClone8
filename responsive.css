@@ -35,18 +35,18 @@
 }
 
 /** box 2 **/
-
 .add-first {
     color: #cccccc;
     font-size: 0.85rem;
     margin-left: -85px;
+    margin-right: 10px; /* Add margin to create spacing between address and logo */
 }
 
 .add-second {
     font-size: 1rem;
-    margin-left: 3px;
     font-weight: 600;
     margin-left: 4px;
+    margin-right: 10px; /* Add margin to create spacing between address and logo */
 }
 
 .add-icon {
