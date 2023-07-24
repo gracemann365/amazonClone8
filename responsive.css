@@ -38,6 +38,7 @@
 .add-first {
     color: #cccccc;
     font-size: 0.85rem;
+    margin-right: 10px;
    
     
 }
@@ -45,14 +46,15 @@
 .add-second {
     font-size: 1rem;
     font-weight: 600;
-    margin-left: 2px;
+    margin-right: 5px;
+    
     
 }
 
 .add-icon {
     display: flex;
     align-items: center;
-    margin-left: -10px;
+    margin-left: -11px;
 }
 
 /** box 3 **/
