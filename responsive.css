@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+/* ... Other styles remain unchanged ... */
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    /* For screens with a maximum width of 768px or less */
+
+    .navbar {
+        flex-direction: column; /* Stack the elements in a column */
+        height: auto; /* Allow the height to adjust based on content */
+    }
+
+    .nav-logo {
+        margin-left: 0; /* Remove negative margin */
+        margin-bottom: 10px; /* Add some space between logo and other elements */
+    }
+
+    .add-first,
+    .add-icon {
+        margin-left: 0; /* Remove negative margin */
+    }
+
+    .nav-search {
+        width: 100%; /* Expand the search bar to full width */
+    }
+
+    /* Adjust font sizes and spacing for smaller screens */
+    .add-first {
+        font-size: 0.7rem;
+    }
+
+    .add-second {
+        font-size: 0.9rem;
+    }
+
+    .search-select {
+        width: 40px;
+    }
+
+    .search-icon {
+        width: 35px;
+        font-size: 1.2rem;
+    }
+}
+
+/* Add more media queries for other breakpoints if needed */
