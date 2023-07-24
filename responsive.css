@@ -38,8 +38,8 @@
 .add-first {
     color: #cccccc;
     font-size: 0.85rem;
-    margin-left: -85px;
-    margin-right: 10px; /* Add margin to create spacing between address and logo */
+    margin-left: -35px;
+    
 }
 
 .add-second {
@@ -52,7 +52,7 @@
 .add-icon {
     display: flex;
     align-items: center;
-    margin-left: -100px;
+    margin-left: -50px;
 }
 
 /** box 3 **/
@@ -63,7 +63,7 @@
     background-color: pink;
     width: 620px;
     height: 40px;
-    border-radius: 4px;
+    border:none;
 }
 
 .search-select {
@@ -80,6 +80,7 @@
     width: 100%;
     font-size: 1rem;
     border: none;
+    margin-right: 4px;
 }
 
 .search-icon {
