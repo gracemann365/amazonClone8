@@ -35,30 +35,24 @@
 }
 
 /** box 2 **/
-.deliver{
-
-    
-    margin-right:10px
-}
-
 .add-first {
     color: #cccccc;
     font-size: 0.85rem;
-    margin-left: -35px;
+   
     
 }
 
 .add-second {
     font-size: 1rem;
     font-weight: 600;
-    margin-left: 4px;
-    margin-right: 10px; /* Add margin to create spacing between address and logo */
+    margin-left: 2px;
+    
 }
 
 .add-icon {
     display: flex;
     align-items: center;
-    margin-left: -50px;
+    margin-left: -10px;
 }
 
 /** box 3 **/
@@ -151,7 +145,6 @@ span {
 
 .panel-all {
     margin-right: 28rem;
-
 }
 
 /** hero **/
