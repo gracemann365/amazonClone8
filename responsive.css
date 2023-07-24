@@ -54,7 +54,7 @@
 .add-icon {
     display: flex;
     align-items: center;
-    margin-left: -11px;
+    margin-left: -5px;
 }
 
 /** box 3 **/
@@ -66,6 +66,7 @@
     width: 620px;
     height: 40px;
     border:none;
+    margin-left: 20px;
 }
 
 .search-select {
